@@ -2,7 +2,7 @@
 layout: post
 title:  "how to pass docker certified associate exam"
 date:   2019-02-01 15:42:55 +0530
-categories: jekyll update
+categories: docker
 ---
 
 I have passed `Docker Certified Associate` (DCA) exam on 31st December 2018. I am happy to share my experience of Docker Certified Associate exam & how to study for the exam. Before going further let me quickly introduce myself. I am having 12+ years of experience in IT infrastructure services which includes Linux, Unix, VMware, Servers, Storage, Networking & Security, AWS & Openstack. I have been playing with Docker since an year but occasionally. So, lets start with -> how I prepared for the exam:
