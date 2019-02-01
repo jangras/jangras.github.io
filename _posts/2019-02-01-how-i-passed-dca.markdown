@@ -4,22 +4,22 @@ title:  "How "
 date:   2019-02-01 15:42:55 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I have passed Docker Certified Associate (DCA) exam on 31st December 2018. I am happy to share my experience of Docker Certified Associate exam & how to study for the exam. Before going further let me quickly introduce myself. I am having 12+ years of experience in IT infrastructure services which includes Linux, Unix, VMware, Servers, Storage, Networking & Security, AWS & Openstack. I have been playing with Docker since an year but occasionally. So, lets start with -> how I prepared for the exam:
 
-Jekyll also offers powerful support for code snippets:
+•	I started with Docker Deep Dive by Nigel Poulton. It took me about one week to complete the 400+ pages of this book with all included practicals in parallel. This book is just awesome. Nigel has done a great job, kudos to him. So, I suggest you to go through this book. Additionally, you can refer to his video course on pluralsight.com, but I haven't taken video course.
+ 
+•	After that, I spent 4-5 days on reading the official documentation. I recommend everyone to go through the official documentation at least once --> https://github.com/DevOps-Academy-Org/dca-prep-guide .But here is one issue, there are lots of links & you may get frustrated referring them. I am making it easy for you, i have printed all links in PDFs and attaching below. They may have some duplicate topics, but you can skip them easily. I used kindle app to read all the PDFs. Kindle app made it easy for me to bookmark & highlight the points to revise on the day of exam. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+•	Also, I practiced on Docker CE & EE, created UCP cluster with DTR, performed backup & restore. Don't worry, Nigel has made it very easy to perform practicals by referring his book. I took the benefit of free trail of Google Cloud in order to spin up few compute instances for creating cluster. Used the free SSL certificate from Let's Encrypt but that's optional, self signed certificates are also good to go.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+•	Finally, I revised all the stuff, specially Nigel's book, & scored >85% in the exam. I must say exam includes enough tricky questions, Docker seems serious about having 6 months of experience before going for the exam. You must practice around swarm, storage, network, service create/update, dockerfile options, namespaces & cgroups. Otherwise, you may confuse while choosing the best answer. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Links to PDFs :
+
+1. Orchestration - 25% of Exam
+2. Image Creation, Management, and Registry - 20% of Exam
+3. Installation & Configration - 15% of Exam
+4. Networking - 15% of Exam
+5. Security - 15% of Exam
+6. Storage and Volumes - 10% of exam
