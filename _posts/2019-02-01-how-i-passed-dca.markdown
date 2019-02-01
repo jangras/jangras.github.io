@@ -25,9 +25,9 @@ Links to PDFs :
 6. [Storage and Volumes - 10% of exam][Storage]
 
 [github-devops-academy]: https://github.com/DevOps-Academy-Org/dca-prep-guide
-[Orchestration]:(/assets/Orchestration.pdf)
-[Image]:(/assets/Image-Creation.pdf)
-[Installation]:(/assets/Installation-Configration.pdf)
-[Networking]:(/assets/Networking.pdf)
-[Security]:(/assets/Security.pdf)
-[Storage]:(/assets/Storage.pdf)
+[Orchestration]:/assets/Orchestration.pdf
+[Image]:/assets/Image-Creation.pdf
+[Installation]:/assets/Installation-Configration.pdf
+[Networking]:/assets/Networking.pdf
+[Security]:/assets/Security.pdf
+[Storage]:/assets/Storage.pdf
