@@ -5,7 +5,7 @@ date:   2019-02-01 15:42:55 +0530
 categories: docker
 ---
 
-I have passed `Docker Certified Associate` (DCA) exam on 31st December 2018. I am happy to share my experience of Docker Certified Associate exam & how to study for the exam. Before going further let me quickly introduce myself. I am having 12+ years of experience in IT infrastructure services which includes Linux, Unix, VMware, Servers, Storage, Networking & Security, AWS & Openstack. I have been playing with Docker since an year but occasionally. So, lets start with -> how I prepared for the exam:
+I have passed `Docker Certified Associate` (DCA) exam on 31st December 2018. I am happy to share my experience of Docker Certified Associate exam & plan to study for the exam. Before going further let me quickly introduce myself. I am having 12+ years of experience in IT infrastructure services which includes Linux, Unix, VMware, Servers, Storage, Networking & Security, AWS & Openstack. I have been playing with Docker since an year but occasionally. So, lets start with -> how I prepared for the exam:
 
 I started with `Docker Deep Dive by Nigel Poulton`. It took me about one week to complete the 400+ pages of this book with all included practicals in parallel. This book is just awesome. Nigel has done a great job, kudos to him. So, I suggest you to go through this book. Additionally, you can refer to his video course on pluralsight.com, but I haven't taken video course.
  
