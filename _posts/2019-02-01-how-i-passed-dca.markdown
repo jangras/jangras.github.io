@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how I passed Docker Certified Associate exam"
+title:  "how to pass docker certified associate exam"
 date:   2019-02-01 15:42:55 +0530
 categories: jekyll update
 ---
